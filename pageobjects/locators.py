@@ -1,11 +1,11 @@
-#Login Page Elements
+# Login Page Elements
 
 txt_loginEmail= "xpath://body/div[@id='bink-app-root']/div[1]/div[1]/div[2]/form[1]/label[1]/input[1]"
 txt_lpginPassword= "xpath://body/div[@id='bink-app-root']/div[1]/div[1]/div[2]/form[1]/label[2]/input[1]"
 btn_login= "xpath://button[contains(text(),'Login')]"
 
 
-#verify Barcode Page Elements
+# verify Barcode Page Elements
 
 click_membershipcard= "xpath://body/div[@id='bink-app-root']/div[1]/section[1]/div[1]/div[1]"
 btn_close= "id:Path"
@@ -13,7 +13,7 @@ btn_close= "id:Path"
 
 
 
-#Verify Wasabi Club Support Modal Page Elements
+# Verify Wasabi Club Support Modal Page Elements
 
 click_wasabiclubModal= "xpath://body/div[@id='bink-app-root']/div[1]/div[1]/div[1]/button[1]/*[1]"
 btn_click= "id:Path"
@@ -26,7 +26,7 @@ link_cookiespolicy= "xpath://body/div[@id='bink-app-root']/div[1]/div[1]/div[3]/
 
 
 
-#Add Payment Card Elements
+# Add Payment Card Elements
 btn_addPaymentcard= "xpath://body/div[@id='bink-app-root']/div[1]/section[2]/div[2]/button[1]/*[1]"
 txt_cardnumber= "name:card_number"
 drp_expMonth= "name:cc-exp-month"
